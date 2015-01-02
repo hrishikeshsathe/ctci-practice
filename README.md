@@ -1,4 +1,6 @@
 ctci-practice
 =============
 
-practice!
+practice! practice!
+problems from cracking the coding interview.
+in progress.
